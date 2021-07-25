@@ -24,7 +24,8 @@
         <module>SpringCloud-Config-server-5001</module>
         <module>SpringCloud-Config-Client-8080</module>
         <module>SpringCloud-Eureka-Config-6001</module>
-        <module>SpringCloud-Config-provider</module>
+        <module>SpringCloud-Config-provider-8001</module>
+        <module>SpringCloud-Bus-provider-8001</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
